@@ -1,0 +1,25 @@
+{
+	"name": "hypejunction/acl_builder_api",
+	"type": "elgg-plugin",
+	"description": "Utility for building access collections",
+	"homepage": "http://hypejunction.com",
+	"keywords": [
+		"elgg", "plugin", "access collections"
+	],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Ismayil Khayredinov",
+			"email": "info@hypejunction.com"
+		}
+	],
+	"require-dev": {
+		"composer/installers": "1.*"
+	},
+	"autoload": {
+		"psr-0": {
+			"": "classes/"
+		}
+	}
+}
+

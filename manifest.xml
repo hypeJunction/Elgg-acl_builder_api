@@ -6,11 +6,11 @@
 
 	<description>Utility for building access collections on the fly</description>
 	<category>developers</category>
-	<version type="dist">0.1.0</version>
+	<version type="dist">1.0.0</version>
 
 	<author>Ismayil Khayredinov (info@hypejunction.com)</author>
 	<website>http://www.hypejunction.com/</website>
-	<copyright>(c) 2015 Ismayil Khayredinov</copyright>
+	<copyright>(c) 2015-2016 Ismayil Khayredinov</copyright>
 	<license>GNU General Public License version 2</license>
 
 	<requires>

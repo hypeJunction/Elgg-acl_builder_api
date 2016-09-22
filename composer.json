@@ -12,12 +12,9 @@
 			"email": "info@hypejunction.com"
 		}
 	],
-	"require-dev": {
-		"composer/installers": "1.*"
-	},
 	"autoload": {
 		"psr-0": {
-			"hypeJunction": "classes/hypeJunction/"
+			"": "classes/"
 		}
 	}
 }

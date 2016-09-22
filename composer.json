@@ -1,6 +1,5 @@
 {
 	"name": "hypejunction/acl_builder_api",
-	"type": "elgg-plugin",
 	"description": "Utility for building access collections",
 	"homepage": "http://hypejunction.com",
 	"keywords": [
@@ -18,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"": "classes/"
+			"hypeJunction": "classes/hypeJunction/"
 		}
 	}
 }
